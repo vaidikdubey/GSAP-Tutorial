@@ -1,5 +1,7 @@
 # GSAP Tutorial
 
+[![YouTube Playlist](https://img.shields.io/badge/YouTube-Playlist-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLbtI3_MArDOnIIJxB6xFtpnhM0wTwz0x6)
+
 ## Lecture 1
 
 - Introduction to GSAP
