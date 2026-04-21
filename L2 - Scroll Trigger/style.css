@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: gilroy;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+/* #page1 {
+    height: 100%;
+    width: 100%;
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#page2 {
+    height: 100%;
+    width: 100%;
+    background-color: blue;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+#page3 {
+    height: 100%;
+    width: 100%;
+    background-color: royalblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#box {
+    height: 300px;
+    width: 300px;
+    background-color: crimson;
+}
+
+h1 {
+    font-size: 50px;
+    position: relative;
+    background-color: aqua;
+}
+
+h2 {
+    font-size: 45px;
+    position: relative;
+    background-color: lightpink;
+}
+
+h3 {
+    font-size: 40px;
+    position: relative;
+    background-color: lightyellow;
+}
+
+h4 {
+    font-size: 35px;
+    position: relative;
+    background-color: lightcoral;
+}
+
+h5 {
+    font-size: 30px;
+    position: relative;
+    background-color: lightseagreen;
+} */
+
+#page1 {
+    height: 100%;
+    width: 100%;
+    background-color: lightyellow;
+}
+
+#page2 {
+    height: 100%;
+    width: 100%;
+    background-color: lightseagreen;
+    padding: 5vw 0;
+}
+
+#page3 {
+    height: 100%;
+    width: 100%;
+    background-color: lightsalmon;
+}
+
+#page2 h1 {
+    font-size: 40vw;
+    font-weight: 600;
+    text-transform: uppercase;
+    /* transform: translateX(-190%); */
+}
