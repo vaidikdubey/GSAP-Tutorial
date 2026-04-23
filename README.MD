@@ -39,3 +39,9 @@
 - Using JS to split text into "span" tags
 - Using index values provided by forEach loop to assign classes
 - Using positive and negative stagger values to obtain text animation
+
+## Lecture 7
+
+- Creating scrolling text animation using GSAP
+- Using wheel event (deltaY) value to trigger animation direction
+- Using GSAP translate, rotate and repeat properties to animate
