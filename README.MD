@@ -32,3 +32,10 @@
 - Using tl.pause() to pause animation and control flow of animation with user's control
 - Using tl.play() to play animation based on event listeners and click event to open menu
 - Using tl.reverse() to reverse animate the sidebar based on event listeners and click event to close menu
+
+## Lecture 6
+
+- Creating text animation using GSAP
+- Using JS to split text into "span" tags
+- Using index values provided by forEach loop to assign classes
+- Using positive and negative stagger values to obtain text animation
