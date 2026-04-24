@@ -45,3 +45,9 @@
 - Creating scrolling text animation using GSAP
 - Using wheel event (deltaY) value to trigger animation direction
 - Using GSAP translate, rotate and repeat properties to animate
+
+## Lecture 8
+
+- Creating landing page using timeline and scroll trigger
+- Understanding how delay are manipulated in timeline with paramenters
+- Understanding how grouping animations, to execute together, is performed with timelines
