@@ -1,0 +1,79 @@
+@import "tailwindcss";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: gilroy;
+    color: white;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+/* .box {
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+    background: linear-gradient(to right bottom, lightblue, cadetblue);
+}
+
+button {
+    padding: 20px 100px;
+    border-radius: 50px;
+    background: linear-gradient(rgb(45, 218, 129), rgb(7, 174, 80));
+    border: none;
+    color: black;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+button:active {
+    scale: 0.96;
+}
+
+img {
+    height: 70px;
+    background: transparent;
+} */
+
+main {
+    height: 100vh;
+    width: 100%;
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center
+}
+
+button {
+    padding: 15px 40px;
+    color: #fff;
+    border-radius: 50px;
+    border: 3px solid #fff;
+    background-color: transparent;
+    font-weight: 700;
+    font-size: 35px;
+    cursor: pointer;
+}
+
+.box {
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+    background: linear-gradient(
+        to right bottom,
+        rgb(239, 124, 191),
+        rgb(246, 28, 144)
+    );
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    font-weight: 600;
+}

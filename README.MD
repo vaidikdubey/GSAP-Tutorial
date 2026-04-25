@@ -51,3 +51,10 @@
 - Creating landing page using timeline and scroll trigger
 - Understanding how delay are manipulated in timeline with paramenters
 - Understanding how grouping animations, to execute together, is performed with timelines
+
+## Lecture 9
+
+- Learning GSAP with React.js
+- Understanding GSAP, useGsap() hook and how to animate in react
+- Understanding useRef() hook usage with GSAP
+- Understanding contextSafe and how it helps with memory management
